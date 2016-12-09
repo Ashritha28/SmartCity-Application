@@ -1,2 +1,3 @@
-# SmartCity-Application
-A java based project to help tourists in going about the city.
+# Smart-City-Application
+
+A java-based application built using Swings that provides information about various cities.
